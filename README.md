@@ -3,7 +3,8 @@
 - ➕ AND
 - 🛣️ I’m currently helping tech people to find the right professional road. 
 - 🗣️ If you're looking for a new job in Italy (employee or freelance). I'm here and let's talk!
-  ![DSCN1356](https://github.com/EleonoraMistro/EleonoraMistro/assets/171784445/6d285a34-e4b4-407e-9b59-1e32b68918e0)
+  <img width="341" alt="image" src="https://github.com/EleonoraMistro/EleonoraMistro/assets/171784445/fc6ed43b-6cb9-40b7-823b-9cb2adf022bf">
+
 
 - 🚀 I'm promoting a better future of work:+inclusive+sustainable+human (my mission). Could you help me?
 - 🐾 Trekker|Ex-Travel Photographer|Mum x1|I like to listen (maybe because my mum talk a lot😅)
