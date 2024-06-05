@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Eleonora 
-- 🔗 I’m currently searching tech people for my clients and clients for tech people
-- ➕ I’m currently helping tech people to find the right professional road 🛣️. 
+- 🔗 I’m currently searching tech people for my clients and clients for tech people🔄️.
+- ➕ I’m currently helping tech people to find the right professional road🛣️. 
 - 🗣️ If you're looking for a new job in Italy (employee or freelance). I'm here and let's talk!
   ![DSCN1360](https://github.com/EleonoraMistro/EleonoraMistro/assets/171784445/254631ed-313e-49a1-9644-72e29093c7ab)
 - 🚀 I'm promoting a better future of work:+inclusive+sustainable+human (my mission). Could you help me?
