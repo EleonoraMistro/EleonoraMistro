@@ -42,10 +42,10 @@
   <a href="linkedin.com/in/eleonora-mistro-18a3859a" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="30" alt="linkedin logo"  />
   </a>
-  <a href="eleonora.mistro@gmail.com" target="_blank">
+  <a href="mailto:eleonora.mistro@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="30" alt="gmail logo"  />
   </a>
-  <a href="3513096227" target="_blank">
+  <a href="https://wa.me/393513096227" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="30" alt="whatsapp logo"  />
   </a>
 </div>
