@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 My name is Eleonora 🌸</h1>
+<h1 align="left">Hey 👋 My name is Eleonora 🏳️‍🌈</h1>
 
 ###
 
-<h2 align="left">I'm a Tech Recruiter, Human Resources and Branding Strategist</h2>
+<h2 align="left">I'm a Tech Recruiter, Career Coach and HR Strategist</h2>
 
 ###
 
