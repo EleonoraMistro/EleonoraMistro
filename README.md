@@ -30,8 +30,7 @@
 
 ###
 
-<p align="left">🚩 Based in Modena<br>🌍 Remote friendly<br>✨ I only know the word listen<br>🫱🏼‍🫲🏻 I am always open to collaborations<br>🔥 I meet new talent every day!<br> Want to talk about it? Book a slot now 👉🏻 <a href="https://calendly.com/eleonora-mistro/consulenza-hr-marketing" target="_blank">calendly</a></p> 📨 Contact me at eleonora.mistro@gmail.com<br> Linkedin, WhatsApp or Telegram✍🏼
-
+<p align="left">🚩 Based in Modena<br>🌍 Remote friendly<br>✨ I only know the word listen<br>🫱🏼‍🫲🏻 I am always open to collaborations<br>🔥 I meet new talent every day!<br> Want to talk about it? Book a slot now 👉🏻 <a href="https://calendly.com/eleonora-mistro/consulenza-hr-marketing" target="_blank">calendly</a></p> 
 ###
 
 <h2 align="left">You can find Me here:</h2>
