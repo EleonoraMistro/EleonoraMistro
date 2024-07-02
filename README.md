@@ -12,6 +12,8 @@
 
 <p align="left">📚 Here you can find tools to make stepping 𝐨𝐮𝐭 𝐨𝐟 𝐲𝐨𝐮𝐫 𝐜𝐨𝐦𝐟𝐨𝐫𝐭 𝐳𝐨𝐧𝐞 a natural process😉!</p>
 
+🫂Join me in my projects to promote a better future of work:+inclusive+sustainable+human. Your participation is welcome!"
+
 ###
 
 <p align="left">💥 So? Check them out!</p>
