@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Here you can find some practical guides to improve your goals, linkedin, CV and everything you need for your next challenge!</p>
+<p align="left">📚 Here you can find tools to make stepping 𝐨𝐮𝐭 𝐨𝐟 𝐲𝐨𝐮𝐫 𝐜𝐨𝐦𝐟𝐨𝐫𝐭 𝐳𝐨𝐧𝐞 a natural process😉!</p>
 
 ###
 
