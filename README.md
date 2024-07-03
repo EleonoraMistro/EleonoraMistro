@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👀 I am constantly looking for 𝐧𝐞𝐰 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 and 𝐭𝐚𝐥𝐞𝐧𝐭𝐬!</p>
+<p align="left">👀 I am Freelance and constantly looking for 𝐧𝐞𝐰 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 and 𝐭𝐚𝐥𝐞𝐧𝐭𝐬!</p>
 
 ###
 
